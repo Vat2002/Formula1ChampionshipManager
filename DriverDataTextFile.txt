@@ -1,0 +1,30 @@
+Driver name:Ryan
+Driver Location:Italy
+Driver Team:Merc
+Driver race count:3
+Driver current points:56
+Driver points:68
+No of races per season:3
+Driver first position:2
+Diver second position:1
+Driver third position:0
+Driver name:vat
+Driver Location:spain
+Driver Team:ferari
+Driver race count:3
+Driver current points:45
+Driver points:75
+No of races per season:3
+Driver first position:3
+Diver second position:0
+Driver third position:0
+Driver name:Niven
+Driver Location:Germany
+Driver Team:Lambo
+Driver race count:3
+Driver current points:45
+Driver points:58
+No of races per season:3
+Driver first position:1
+Diver second position:1
+Driver third position:1
